@@ -5,7 +5,7 @@ import openai
 app = Flask(__name__)
 
 # Replace 'YOUR_OPENAI_API_KEY' with your actual OpenAI API key
-openai.api_key = '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'
+openai.api_key = '###'
 
 html_template = """
 <!DOCTYPE html>
